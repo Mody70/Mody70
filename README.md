@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋 Mohamed Ahmed
 
-<!--
-**Mody70/Mody70** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Founder building Bayaa — an Arabic SaaS platform for social media merchants.
 
-Here are some ideas to get you started:
+## 🚀 What I'm Building
+- Orders Management
+- Smart Storefronts
+- AI Insights
+- WhatsApp Workflow
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+- Next.js
+- TypeScript
+- Supabase
+- Tailwind CSS
+
+## 🌍 Focus
+Building tools for Arabic commerce.
